@@ -51,3 +51,5 @@
 
 
 *This is our final day!*
+
+![Image description](image-url.png)
