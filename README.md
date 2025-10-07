@@ -52,4 +52,6 @@
 
 *This is our final day!*
 
-![Image description](image-url.png)
+
+
+![The new picture I added](https://github.com/Safa-Saber/New_for_students/blob/main/OPEN%20DAYS.png)
