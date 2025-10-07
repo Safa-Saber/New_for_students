@@ -11,4 +11,21 @@
 - My first repository
 - Learning everyday!
 
+### Quick Reference
 
+| What You Want | How to Write It | Result |
+|--------------|-----------------|--------|
+| Big title | `# Title` | # Title |
+| Subtitle | `## Subtitle` | ## Subtitle |
+| Bold | `**bold**` | **bold** |
+| Italic | `*italic*` | *italic* |
+| Code | `` `code` `` | `code` |
+| Link | `[text](url)` | [text](url) |
+| Bullet | `- item` | - item |
+| Number | `1. item` | 1. item |
+
+---
+
+**Remember**: Git is like saving your game - do it often!
+
+*Keep practicing these commands and they'll become second nature!*
