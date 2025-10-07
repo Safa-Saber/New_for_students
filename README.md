@@ -29,3 +29,6 @@
 **Remember**: Git is like saving your game - do it often!
 
 *Keep practicing these commands and they'll become second nature!*
+
+
+*This is going to be added after the end!*
